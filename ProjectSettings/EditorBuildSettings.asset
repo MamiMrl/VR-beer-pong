@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MultiUserVR.unity
     guid: c31d2931a0c2b374f9bce1b5bbb0f514
+  - enabled: 1
+    path: Assets/Scenes/VRBeerPong.unity
+    guid: a2b280219fbe9d544918a13c51c7e64a
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 22679696a9b751c478c5798388293512
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: 0d86b37a80f1cde42819b37a5895119c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 02777b05cc4972345b36dd4f303fe6aa
   m_configObjects:
     com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 0cbdab12b4b62f5428b9fb90f1ce4447, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: acb6c5669d5202e4eac7cc41936a2395, type: 2}
