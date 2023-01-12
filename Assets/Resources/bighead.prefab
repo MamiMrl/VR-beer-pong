@@ -2602,7 +2602,6 @@ GameObject:
   - component: {fileID: 4576185465117919912}
   - component: {fileID: 3718652428862491201}
   - component: {fileID: 4164705514957398402}
-  - component: {fileID: 371648907747871745}
   m_Layer: 0
   m_Name: bighead
   m_TagString: Untagged
@@ -2790,25 +2789,6 @@ MonoBehaviour:
   m_SynchronizeLayers:
   - SynchronizeType: 0
     LayerIndex: 0
---- !u!114 &371648907747871745
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7471612957786049951}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 126494ae2a10a34499272ed97a6c9f5d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  logLevel: 1
-  ignoreGlobalLogLevel: 0
-  recorderInUse: {fileID: 0}
-  speakerInUse: {fileID: 2252768398411487044}
-  AutoCreateRecorderIfNotFound: 0
-  UsePrimaryRecorder: 1
-  SetupDebugSpeaker: 0
 --- !u!1 &7471612957786049953
 GameObject:
   m_ObjectHideFlags: 0

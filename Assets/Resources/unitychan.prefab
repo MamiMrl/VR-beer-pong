@@ -2231,7 +2231,6 @@ GameObject:
   - component: {fileID: 5503496485947562800}
   - component: {fileID: 1608668302784990727}
   - component: {fileID: 86399899897385557}
-  - component: {fileID: 263504572715857478}
   m_Layer: 0
   m_Name: unitychan
   m_TagString: Untagged
@@ -2419,25 +2418,6 @@ MonoBehaviour:
   m_SynchronizeLayers:
   - SynchronizeType: 0
     LayerIndex: 0
---- !u!114 &263504572715857478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6224589233029061235}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 126494ae2a10a34499272ed97a6c9f5d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  logLevel: 2
-  ignoreGlobalLogLevel: 0
-  recorderInUse: {fileID: 0}
-  speakerInUse: {fileID: 585299343869099119}
-  AutoCreateRecorderIfNotFound: 0
-  UsePrimaryRecorder: 1
-  SetupDebugSpeaker: 0
 --- !u!1 &6224589233029061237
 GameObject:
   m_ObjectHideFlags: 0
